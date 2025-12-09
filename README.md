@@ -1,6 +1,6 @@
 # IPL-2025-Analytics
 ## 🎯 Business Problem: Zero-Emotion Mega Auction
-IPL Mega Auctions mein selection aksar hype, reputation, aur galti se hue single-season spikes par based hota hai. Isse teams expensive mistakes karti hain.
+Selection in the IPL Mega Auctions is often based on hype, reputation, and misleading single-season spikes that occur by chance. This leads to teams making expensive mistakes.
 
 This project solves that by developing an objective, data-driven framework to evaluate player impact and risk.
 - Goal: Create a metric that balances a player's high output (Value/Threat) with their reliability (Consistency/Control) to identify the best Return on Investment (ROI).
